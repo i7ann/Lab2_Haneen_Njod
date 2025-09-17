@@ -1,0 +1,26 @@
+#fh{
+text-align: center;
+    color:rgb(218, 119, 135);
+
+}
+
+body{
+background-color: rgb(253, 220, 226);
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: small;}
+
+p{padding: 10px;
+    margin: 10px;}
+
+img{
+    width:300px;
+    padding: 20px;
+  display: block;
+  margin: 0 auto;
+}
+h1{
+   
+   padding: 10px;
+    margin: 10px;
+     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
